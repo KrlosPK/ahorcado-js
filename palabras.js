@@ -14,4 +14,12 @@ const words = [
     "luz",
     "casa",
     "hoja",
+    "piña",
+    "dibujo",
+    "mazamorra",
+    "puerta",
+    "teclado",
+    "zapato",
+    "manteca",
+    "culear",
 ];

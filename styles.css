@@ -21,7 +21,6 @@
     box-sizing: border-box;
 }
 body {
-    user-select: none;
     background-color: #4a4063;
     color: #fff;
     font-family: "Merchant Copy Doublesize", sans-serif;
