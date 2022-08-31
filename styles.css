@@ -21,6 +21,7 @@
     box-sizing: border-box;
 }
 body {
+    user-select: none;
     background-color: #4a4063;
     color: #fff;
     font-family: "Merchant Copy Doublesize", sans-serif;
@@ -74,9 +75,9 @@ body {
     justify-content: center;
     align-content: inherit;
     transition: box-shadow 200ms ease, background-color 250ms ease;
+    animation: movimientoLetras 1500ms infinite alternate-reverse linear;
 }
 #startButton:hover {
     box-shadow: 5px 0 10px 2px #00000033;
     background-color: #c74724;
-    animation: movimientoLetras 1500ms infinite alternate-reverse linear;
 }

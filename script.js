@@ -40,6 +40,7 @@ const wrongLetter = () => {
             icon: "error",
             title: "Perdiste...",
             text: "Inténtalo de nuevo!",
+            footer: `La palabra era: ${selectedWord}`,
             background: "#333",
             color: "#fff",
         });
